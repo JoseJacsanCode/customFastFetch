@@ -136,3 +136,7 @@ fastfetch
 
 - [Schema JSON de configuração](https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json)
 
+## Licença
+
+[GPL-3.0 License](https://github.com/JoseJacsanCode/customFastFetch/blob/main/LICENSE)
+
