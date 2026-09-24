@@ -16,23 +16,20 @@ Layout do fastfetch com informações agrupadas em caixas (Hardware, Software e 
 sudo dnf install fastfetch
 ```
 
-**  
-Ubuntu**:
+**Ubuntu**:
 
 ```
 sudo apt update
 sudo apt install fastfetch
 ```
 
-**  
-openSUSE:**
+**openSUSE:**
 
 ```
 sudo zypper install fastfetch
 ```
 
-**  
-Arch Linux:**
+**Arch Linux:**
 
 ```
 sudo pacman -S fastfetch
