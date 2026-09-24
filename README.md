@@ -1,6 +1,9 @@
 # Fastfetch customizado — Hardware / Software / Uptime
 
 Layout do fastfetch com informações agrupadas em caixas (Hardware, Software e Uptime/Age/DT) e um módulo customizado de "idade do sistema".
+***
+![Demonstração do Fastfetch customizado](https://github.com/JoseJacsanCode/customFastFetch/blob/main/print.jpg)
+***
 
 ## Pré-requisitos
 
